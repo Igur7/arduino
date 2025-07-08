@@ -68,7 +68,6 @@ void loop() {
   analogWrite(greenPin, greenBrightness);
   analogWrite(bluePin, blueBrightness);
 
-  // Drukuj tylko, gdy zmiana >= 2 jednostki
   if (abs(redBrightness - lastRed) >= 2 ||
       abs(greenBrightness - lastGreen) >= 2 ||
       abs(blueBrightness - lastBlue) >= 2) {
