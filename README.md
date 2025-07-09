@@ -26,3 +26,11 @@ Connect Arduino and send volume data through the serial port.
 Run the Python script to listen to serial input and control Spotify volume.
 
 Use the kill switch button to mute/unmute Spotify.
+
+Parts needed:
+
+Potentiometer
+
+7-segment display
+
+Arduino Uno
