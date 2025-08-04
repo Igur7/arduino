@@ -34,3 +34,5 @@ Potentiometer
 7-segment display
 
 Arduino Uno
+
+3 push buttons
